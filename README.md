@@ -33,7 +33,7 @@ Autora: <em>Camilla Avila</em>.
 
 ### Práticas com o projeto
 
-- Semântica HTML e CSS - Boas práticas de uso das linguegens;
+- Semântica HTML e CSS - Boas práticas de uso das linguagens;
 - ACESSIBILIDADE WEB ♿
 - Uso de pseudo-elementos e classes;
 - Seletores;
